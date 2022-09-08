@@ -1,3 +1,3 @@
 # jobs4u
 
-Node js, Vue Js and Sqlite.
+Node js, Vue Js and Sqlite , Sequelize ORM.
